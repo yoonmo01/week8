@@ -2,7 +2,7 @@
 
 ## 교육
 
-* 학과수 및 학년별 재적학생수
+* 학과수 및 학년별 재적학생수[교육통계서비스 학과수 및 학년별 재적학생수 통계](https://kess.kedi.re.kr/mobile/stats/school?menuCd=0102&cd=6870&survSeq=2025&itemCode=01&menuId=m_010204&uppCd1=010204&uppCd2=010204&flag=B)
 
 
 |학제|학교수|학과수|재적학생수|재학생|휴학생|
