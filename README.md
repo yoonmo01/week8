@@ -2,6 +2,13 @@
 
 ## 교육
 
+- 학교 기본 정보 데이터셋 [학교 기본 정보](https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17020190531110010104913&infSeq=1)
+
+  | 시도교육청코드 | 시도교육청       | 행정표준코드 | 학교명       | 영문학교명          | 학교종류명 | 시도명     | 관할조직명                   | 설립명 |
+  | -------------- | ---------------- | ------------ | ------------ | ------------------- | ---------- | ---------- | ---------------------------- | ------ |
+  | B10            | 서울특별시교육청 | 7010057      | 가락고등학교 | Garak High School   | 고등학교   | 서울특별시 | 서울특별시교육청             | 공립   |
+  | B10            | 서울특별시교육청 | 7130165      | 가락중학교   | Karak Middle School | 중학교     | 서울특별시 | 서울특별시강동송파교육지원청 | 공립   |
+  
 * 학과수 및 학년별 재적학생수[교육통계서비스 학과수 및 학년별 재적학생수 통계](https://kess.kedi.re.kr/mobile/stats/school?menuCd=0102&cd=6870&survSeq=2025&itemCode=01&menuId=m_010204&uppCd1=010204&uppCd2=010204&flag=B)
 
 
